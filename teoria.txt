@@ -1,0 +1,9 @@
+Propiedades de una imagen:
+
+-Border. ejemplo img{border: 1px solid;}
+
+-Padding: Espacio entre la imagen y su borde (al aumentar el padding se achica la imagen).
+
+-Margin: Espacio entre la el borde de la imagen y los elementos q rodean a la imagen.
+
+Libro ProGit
